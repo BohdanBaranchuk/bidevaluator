@@ -1,0 +1,46 @@
+{
+  "campaigns": [
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544000",
+      "targetedCountry": "CA",
+      "targetedDomain": "apple.com",
+      "availableDimensions": "100x200, 300x500, 450x510"
+    },
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544001",
+      "targetedCountry": "CA",
+      "targetedDomain": "microsoft.com",
+      "availableDimensions": "450x478"
+    },
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544002",
+      "targetedCountry": "NL",
+      "targetedDomain": "samsung.com",
+      "availableDimensions": "450x478"
+    },
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544003",
+      "targetedCountry": "NL",
+      "targetedDomain": "microsoft.com",
+      "availableDimensions": "450x478"
+    },
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544004",
+      "targetedCountry": "NO",
+      "targetedDomain": "nokia.com",
+      "availableDimensions": "300x500, 600x200"
+    },
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544005",
+      "targetedCountry": "DE",
+      "targetedDomain": "siemens.com",
+      "availableDimensions": "100x200, 450x478, 100x200"
+    },
+    {
+      "campaignId": "550e8400-e29b-41d4-a716-44665544006",
+      "targetedCountry": "US",
+      "targetedDomain": "lg.com",
+      "availableDimensions": "100x200, 450x478, 100x200"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "generatedItemsNumber": 100000,
+  "countryCodes": [
+    "CA",
+    "NL",
+    "DE",
+    "US",
+    "GB"
+  ],
+  "url": {
+    "protocols": [
+      "http",
+      "https"
+    ],
+    "hosts": [
+      "apple.com",
+      "microsoft.com",
+      "android.com",
+      "lg.com"
+    ],
+    "requestQueries": [
+      "/store?item=1290",
+      "/phones/7680810?sortBy=best"
+    ]
+  },
+  "dimension": {
+    "maxSizesForOneItem": 3,
+    "sizes": [
+      {
+        "length": 100,
+        "width": 200
+      },
+      {
+        "length": 300,
+        "width": 500
+      },
+      {
+        "length": 450,
+        "width": 478
+      }
+    ]
+  }
+}
